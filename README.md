@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Naik Nihal
-- 🌱 I’m currently learning cloud architect
+- 👋 Hi,Hello,Namaste I’m @Naik Nihal
+- I’m currently learning cloud architect
 - 📫 How to reach me nihalnaik03@gmail.com
 
 <!---
